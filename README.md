@@ -3,7 +3,7 @@
 A collection of ham radio related programs. 
 
 adi2xml - Program to convert lotw adi format file to XML.
-satpc32 - Updated sqf files for satpc32.
+echolink_transmit_receive_teensy - Allows you to control your radio's transmit from echolink using a Teensy microcontroller over it's USB COM port on windows.
 
 de
 WA1JAY
